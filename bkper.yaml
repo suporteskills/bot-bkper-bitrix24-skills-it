@@ -1,12 +1,12 @@
 # You can override the name from the repository
-# name: New Bkper App
+name: Bot Skills Bkper
 
 # Set your logo url from public host. Best fit 200x200 px. Use https:// 
-logo: https://static.thenounproject.com/png/2319012-200.png
+logo: https://images-platform.99static.com//8w6xifPmAUiFiQpRZO4Ki4ttBD4=/266x252:1228x1214/fit-in/500x500/99designs-contests-attachments/85/85279/attachment_85279070
 #Icon created by Iconchease from Non Project. Please use with right licensing.
 
 # The Client ID from GCP project Web Application OAuth Credential
-clientId: CLIENT_ID
+clientId: 1011966342145-nufppkmnc28ssq21v68ans5s3ke3poqv.apps.googleusercontent.com
 
 # The Google Apps Script ID
 scriptId: 1wVGGaVXGLCip3ZfOS4AG2a1gimfMKH7eA3kgZ8K64On77qIfSvrdObb9
