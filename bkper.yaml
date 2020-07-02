@@ -9,7 +9,7 @@ logo: https://images-platform.99static.com//8w6xifPmAUiFiQpRZO4Ki4ttBD4=/266x252
 clientId: 340850467661-52asovne28r2vvli5bviootvkig99d9h.apps.googleusercontent.com
 
 # The Google Apps Script ID
-scriptId: AKfycbzaSw64pneBELpKDrbDXvlzDtksPJ5xGjygz7ZOlqeNREbOxrzopFhMAP50K7D_wZKrcw
+scriptId: 1hgGkYbb-HU9uWcvosWMNzok3qiRQt8dbDn9w5hV3ZyBhWPoZGgUQZ3wH
 
 # The OAuth scopes used by the Google Apps Script - found at File > Project Properties > Scopes
 scopes: >
@@ -26,7 +26,7 @@ triggers: >
 apiVersion: v2
 
 # The Google Apps Script API Deployment ID
-deploymentId: AIzaSyAPLr3C4YnyhQiRrVpQy0lfvef_36_TI8g
+deploymentId: AKfycbzaSw64pneBELpKDrbDXvlzDtksPJ5xGjygz7ZOlqeNREbOxrzopFhMAP50K7D_wZKrcw
 
 # By default the App will be available to your user, or all users of your G Suite domain.
 # Additionally you can yhitelist users you want this app to show up:
