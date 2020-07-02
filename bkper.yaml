@@ -9,7 +9,7 @@ logo: https://images-platform.99static.com//8w6xifPmAUiFiQpRZO4Ki4ttBD4=/266x252
 clientId: 340850467661-52asovne28r2vvli5bviootvkig99d9h.apps.googleusercontent.com
 
 # The Google Apps Script ID
-scriptId: 1wVGGaVXGLCip3ZfOS4AG2a1gimfMKH7eA3kgZ8K64On77qIfSvrdObb9
+scriptId: AKfycbzaSw64pneBELpKDrbDXvlzDtksPJ5xGjygz7ZOlqeNREbOxrzopFhMAP50K7D_wZKrcw
 
 # The OAuth scopes used by the Google Apps Script - found at File > Project Properties > Scopes
 scopes: >
