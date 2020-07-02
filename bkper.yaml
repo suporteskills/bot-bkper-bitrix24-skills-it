@@ -26,7 +26,7 @@ triggers: >
 apiVersion: v2
 
 # The Google Apps Script API Deployment ID
-deploymentId: AKfycbzaSw64pneBELpKDrbDXvlzDtksPJ5xGjygz7ZOlqeNREbOxrzopFhMAP50K7D_wZKrcw
+deploymentId: AKfycbyolaYh96udyAGvZ6SO8xMJg5tAm8XL9jNtIYnz41Ncd1ESEGnY
 
 # By default the App will be available to your user, or all users of your G Suite domain.
 # Additionally you can yhitelist users you want this app to show up:
