@@ -18,10 +18,10 @@ scopes: >
 
 # The Google Apps Script trigger functions
 triggers: >
-    onTransactionUnchecked
     onTransactionPosted
     onTransactionDeleted
     onTransactionRestored
+    onTransactionUnchecked
     TestCheck
 
 # The version of Bkper API in which the payload will be formatted
