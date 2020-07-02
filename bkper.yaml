@@ -6,7 +6,7 @@ logo: https://images-platform.99static.com//8w6xifPmAUiFiQpRZO4Ki4ttBD4=/266x252
 #Icon created by Iconchease from Non Project. Please use with right licensing.
 
 # The Client ID from GCP project Web Application OAuth Credential
-clientId: 1011966342145-nufppkmnc28ssq21v68ans5s3ke3poqv.apps.googleusercontent.com
+clientId: 340850467661-52asovne28r2vvli5bviootvkig99d9h.apps.googleusercontent.com
 
 # The Google Apps Script ID
 scriptId: 1wVGGaVXGLCip3ZfOS4AG2a1gimfMKH7eA3kgZ8K64On77qIfSvrdObb9
@@ -26,7 +26,7 @@ triggers: >
 apiVersion: v2
 
 # The Google Apps Script API Deployment ID
-deploymentId: AIzaSyBHaOyEcqAUNzE5NBbNKrnSsRCARFbGtn8
+deploymentId: AIzaSyAPLr3C4YnyhQiRrVpQy0lfvef_36_TI8g
 
 # By default the App will be available to your user, or all users of your G Suite domain.
 # Additionally you can yhitelist users you want this app to show up:
