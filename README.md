@@ -1,8 +1,8 @@
-# Bkper Bot Template
+# Bkper Bot Skills IT
 
-Use this Bkper Bot Template to create automations that react to events from your Books. 
+Este projeto foi criado para integração através do GAS e API do Bitrix24. 
 
-A Bkper Bot can, for example, and calculate taxes on transaction posting, convert currencies on transaction checked or post a message to Slack on comment created.
+Através do Bot é possível enviar um lançamento conciliado para o Bitrix24, e então será criada uma tarefa para inclusão de lançamentos no ERP do nosso cliente.
 
 ![Bkper Bots](https://bkper.com/images/bots/bkper-tax-bot/bkper-tax-bot.gif)
 
